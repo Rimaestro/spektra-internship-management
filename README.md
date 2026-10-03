@@ -29,11 +29,7 @@ The repository also defines API resource routes. Some API resource controllers a
 
 Copy .env.example to .env and configure the database:
 
-    # Windows PowerShell
-    Copy-Item .env.example .env
-
-    # macOS/Linux
-    # cp .env.example .env
+    cp .env.example .env
 
     php artisan key:generate
     php artisan migrate --seed
