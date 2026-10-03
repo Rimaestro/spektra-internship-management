@@ -1,5 +1,7 @@
 # BAB II - ANALISIS KEBUTUHAN SISTEM
 
+> **Catatan:** Draf historis dari 2025. Klaim fitur, hasil pengujian, angka, dan kebutuhan di bawah ini belum diverifikasi terhadap implementasi saat ini.
+
 ## 2.1 Tempat Penelitian
 
 ### 2.1.1 Profil Institusi
@@ -428,3 +430,4 @@
 - **NF022**: MySQL 8.0+ support
 - **NF023**: Modern browser support (Chrome, Firefox, Safari, Edge)
 - **NF024**: Mobile responsive untuk smartphone dan tablet
+

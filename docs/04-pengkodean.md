@@ -1,5 +1,7 @@
 # BAB IV - PENGKODEAN
 
+> **Catatan:** Draf historis dari 2025. Klaim fitur, hasil pengujian, angka, dan kebutuhan di bawah ini belum diverifikasi terhadap implementasi saat ini.
+
 ## 4.1 Teknologi dan Framework yang Digunakan
 
 ### 4.1.1 Backend Technology Stack
@@ -567,3 +569,4 @@ Database dirancang dengan normalisasi 3NF dan menggunakan:
 - Indexes untuk optimasi query performance
 - JSON columns untuk flexible document storage
 - Soft deletes untuk data preservation
+

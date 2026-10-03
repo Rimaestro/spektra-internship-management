@@ -1,5 +1,7 @@
 # BAB VI - PENUTUP
 
+> **Catatan:** Draf historis dari 2025. Klaim fitur, hasil pengujian, angka, dan kebutuhan di bawah ini belum diverifikasi terhadap implementasi saat ini.
+
 ## 6.1 Kesimpulan
 
 ### 6.1.1 Pencapaian Tujuan Penelitian
@@ -352,3 +354,4 @@ Berdasarkan hasil pengembangan dan pengujian sistem SPEKTRA PKL, dapat disimpulk
 ---
 
 **Sistem SPEKTRA PKL telah berhasil memenuhi semua requirement dan siap untuk implementasi production. Dengan roadmap pengembangan yang jelas dan dukungan yang memadai, sistem ini dapat terus berkembang menjadi solusi PKL yang lebih komprehensif dan inovatif.**
+

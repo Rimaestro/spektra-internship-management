@@ -1,5 +1,7 @@
 # BAB I - PENDAHULUAN
 
+> **Catatan:** Draf historis dari 2025. Klaim fitur, hasil pengujian, angka, dan kebutuhan di bawah ini belum diverifikasi terhadap implementasi saat ini.
+
 ## 1.1 Latar Belakang
 
 Praktek Kerja Lapangan (PKL) merupakan salah satu komponen penting dalam kurikulum pendidikan tinggi yang bertujuan untuk memberikan pengalaman kerja nyata kepada mahasiswa sebelum memasuki dunia kerja. Namun, pengelolaan PKL di banyak institusi pendidikan masih menghadapi berbagai tantangan, terutama dalam hal efisiensi, transparansi, dan koordinasi antar pihak yang terlibat.
@@ -151,3 +153,4 @@ Laporan ini disusun dengan sistematika sebagai berikut:
 - **BAB V - PENGUJIAN**: Hasil testing dan evaluasi sistem
 - **BAB VI - PENUTUP**: Kesimpulan dan saran pengembangan lanjutan
 - **LAMPIRAN**: Biografi tim dan dokumentasi tambahan
+

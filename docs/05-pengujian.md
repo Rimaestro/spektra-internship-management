@@ -1,5 +1,7 @@
 # BAB V - PENGUJIAN
 
+> **Catatan:** Draf historis dari 2025. Klaim fitur, hasil pengujian, angka, dan kebutuhan di bawah ini belum diverifikasi terhadap implementasi saat ini.
+
 ## 5.1 Metodologi Pengujian
 
 ### 5.1.1 Jenis Pengujian yang Dilakukan
@@ -398,3 +400,4 @@ WHERE query_time > 1.0;
 **Status Akhir Testing:** ✅ **FOUNDATION COMPLETE - READY FOR EXPANSION**
 **Kualitas Saat Ini:** ⭐⭐⭐⭐ (4/5) - Solid foundation dengan room for growth
 **Rekomendasi:** Lanjutkan ke Priority 2 untuk melengkapi feature testing
+

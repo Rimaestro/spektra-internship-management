@@ -1,5 +1,7 @@
 # BAB III - RANCANGAN SISTEM
 
+> **Catatan:** Draf historis dari 2025. Klaim fitur, hasil pengujian, angka, dan kebutuhan di bawah ini belum diverifikasi terhadap implementasi saat ini.
+
 ## 3.1 Pemilihan Metode Perancangan
 
 ### 3.1.1 Metodologi Pengembangan
@@ -624,3 +626,4 @@ ERD mencakup:
   100% { transform: rotate(360deg); }
 }
 ```
+
